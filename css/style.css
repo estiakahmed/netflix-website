@@ -1,0 +1,378 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica;
+}
+/*header area start*/
+
+/*nav start*/
+.logobox img {
+    width: 170px;
+}
+
+.logobox {
+    padding-left: 30px;
+}
+button.signinbtn {
+    background-color: #e50914;
+    line-height: normal;
+    padding: 7px 17px;
+    font-weight: 400;
+    font-size: 1rem;
+    float: right;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-right: 30px;
+}
+.row.navrow {
+    align-items: center;
+    padding-top: 13px;
+}
+
+/*nav end*/
+
+header#header {
+    background-image: url(../image/bg1.jpg);
+    width: 100%;
+    height: 660px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-bottom: 8px solid #222;
+}
+
+.textandinput h2 {
+    font-size: 3.125rem;
+    font-weight: 800;
+    color: white;
+    text-align: center;
+    padding-top: 146px;
+}
+.textandinput h5 {
+    font-size: 1.625rem;
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+    font-weight: 400;
+}
+.textandinput p {
+    font-size: 19px;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.input-field {
+    position: relative;
+    width: 425px;
+}
+label {
+    position: absolute;
+    top: 13px;
+    left: 0;
+    width: 100%;
+    color: #8c8c8c;
+    transition: 0.2s all;
+    cursor: text;
+    font-size: 16px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 3px;
+}
+input {
+    width: 100%;
+    border: 0;
+    outline: 0;
+    padding: 0.5rem 0;
+    box-shadow: none;
+    color: #111;
+}
+input:invalid {
+    outline: 0;
+    // color: #ff2300;
+    //   border-color: #ff2300;
+}
+input:focus,
+input:valid {
+    border: none;
+}
+input:focus ~ label,
+input:valid ~ label {
+    font-size: 12px;
+    top: 0px;
+    color: #8c8c8c;
+    font-weight: bold;
+}
+input#email {
+    width: 451px;
+    height: 60px;
+    padding-left: 10px;
+    border-radius: 3px 0px 0px 3px;
+}
+input:focus {
+    border: 1px solid #005dc2;
+}
+.formbtn {
+    width: 219px;
+    align-items: center;
+    margin-left: 26px;
+}
+
+form.input-form {
+    display: flex;
+}
+.formbtn button {
+    width: 218px;
+    height: 60px;
+    border: none;
+    background: #e40914;
+    color: white;
+    font-size: 26px;
+    align-items: center;
+}
+.formbtn button i {
+    padding-left: 5px;
+    font-size: 20px;
+}
+.formbtn button:hover {
+    background: red;
+    color: white;
+    transition: all 0.5s;
+}
+.inputfielddiv {
+    display: flex;
+    justify-content: center;
+}
+
+/*header area end*/
+/*enjoy section start*/
+
+section.enjoy {
+    background: #000000;
+}
+
+.enjoytextbox h2 {
+    font-size: 50px;
+    font-weight: 700;
+}
+.enjoytextbox p {
+    font-size: 26px;
+    padding-top: 10px;
+    padding-bottom: 0;
+    margin: 0;
+}
+
+.row.enjoyrow {
+    padding-top: 70px;
+    padding-bottom: 70px;
+    align-items: center;
+}
+.enjoytextbox {
+    color: white;
+}
+.enjoyimgbox img {
+    width: 98%;
+}
+section.enjoy {
+    border-bottom: 8px solid #222;
+}
+
+/*enjoy section end*/
+
+/*download section start*/
+section.download {
+    background: #000000;
+    border-bottom: 8px solid #222;
+}
+.downimgbox img {
+    width: 88%;
+    float: left;
+}
+.downtxtbox h2 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.downtxtbox p {
+    font-size: 26px;
+    font-weight: 400;
+}
+
+.row.downrow {
+    color: white;
+    align-items: center;
+    padding-top: 45px;
+    padding-bottom: 70px;
+}
+.downtxtbox {
+    padding-top: 10px;
+}
+
+/*download section end*/
+
+/*watch section start*/
+.watchbox p {
+    padding: 0;
+    margin: 0;
+    font-size: 26px;
+    width: 49%;
+}
+
+section.watch {
+    background: #000000;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    border-bottom: 8px solid #222;
+}
+.watchbox h2 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.watchbox {
+    color: white;
+}
+
+/*watch section end*/
+
+/*kid section start*/
+#kidbox h2 {
+    font-size: 48px;
+    padding-bottom: 16px;
+}
+
+/*kid section end*/
+
+/*faq section start*/
+
+.faqbox h2 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    color: white;
+    padding-bottom: 35px;
+}
+
+section.faq {
+    background: #000000;
+    padding-bottom: 50px;
+    border-bottom: 8px solid #222;
+}
+.accordion h3 {
+    background: #303030;
+    color: white;
+    padding: 18px 25px;
+    width: 75%;
+    margin: auto;
+    padding-left: 30px;
+}
+.accordion .icon {
+    width: 30px;
+    margin-right: 10.75em;
+    background-image: url(../image/icon1.png);
+    background-repeat: no-repeat;
+    height: 30px;
+    background-size: cover;
+    float: right;
+    margin-top: 19px;
+    cursor: pointer;
+}
+.panel p {
+    width: 100%;
+    margin: auto;
+    font-size: 26px;
+    color: white;
+    font-weight: 400;
+    padding: 43px 30px;
+}
+.panel {
+    width: 75%;
+    margin: auto;
+    background: #303030;
+    border-top: 2px solid black;
+    overflow: hidden;
+    max-height: 0;
+    transition: all 0.3s ease-in;
+}
+.active .icon {
+    background-image: url(../image/icon2.png);
+}
+.faqdiv {
+    margin-bottom: 10px;
+}
+.faqbox {
+    padding-bottom: 35px;
+    padding-top: 55px;
+}
+.tittlep p {
+    font-size: 19px;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    padding-top: 60px;
+}
+
+/*footer input form*/
+
+input#name {
+    height: 60px;
+    padding-left: 10px;
+    width: 451px;
+}
+form.footerform {
+    width: 100%;
+    display: flex;
+}
+
+/*footer input  end*/
+/*faq section end*/
+
+
+/*footer area start*/
+
+.footertittle h4 {
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    width: 20%;
+}
+
+.footertittle h4:hover {
+    text-decoration: underline;
+}
+.footertextbox ul li a {
+    text-decoration: none;
+    font-size: 13px;
+    color: #757575;
+    font-weight: 400;
+}
+
+.footertextbox ul li {
+    list-style: none;
+}
+
+ul {
+    padding: 0;
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+}
+.footertextbox ul li a:hover {
+    text-decoration: underline;
+}
+.row.footerrow {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.footertittle {
+    padding-left: 40px;
+    padding-bottom: 20px;
+}
+section.fooer {
+    background: #000000;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+/*footer area end*/

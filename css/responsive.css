@@ -1,0 +1,1405 @@
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+}
+/*768-991*/
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    /*input form start*/
+    form.input-form {
+        display: block;
+        width: 100%;
+    }
+    .input-field {
+        position: relative;
+        width: 100%;
+    }
+    .formbtn {
+        padding-top: 19px;
+        width: 219px;
+        align-items: center;
+        margin: auto;
+        text-align: center;
+    }
+    .formbtn button {
+        width: 130px;
+        height: 40px;
+        border: none;
+        background: #e40914;
+        color: white;
+        font-size: 16px;
+        text-align: center;
+        margin: auto;
+        border-radius: 3px;
+    }
+    .formbtn button i {
+        padding-left: 5px;
+        font-size: 13px;
+    }
+
+    /*input form end*/
+
+    /*enjoy section start*/
+    .row.enjoyrow {
+        display: block;
+    }
+    .col-xs-12.col-sm-6.enjoycol {
+        width: 100%;
+        text-align: center;
+    }
+    .enjoytextbox h2 {
+        font-size: 40px;
+        font-weight: 700;
+    }
+    .enjoytextbox p {
+        font-size: 20px;
+        padding-top: 10px;
+        padding-bottom: 0;
+        margin: 0;
+    }
+    .enjoyimgbox img {
+        width: 85%;
+    }
+
+    /*enjoy section end*/
+    /*download section start*/
+    .row.downrow {
+        display: block;
+    }
+
+    .col-xs-12.col-sm-6.downcol {
+        margin-top: 116px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .col-xs-12.col-sm-6.downcol.downtext {
+        margin-top: -570px;
+        width: 100%;
+    }
+    section.download {
+        background: #000000;
+        border-bottom: 8px solid #222;
+        height: 730px;
+    }
+    .downtxtbox h2 {
+        font-size: 40px;
+        font-weight: 700;
+        text-align: center;
+    }
+    .downtxtbox p {
+        font-size: 20px;
+        font-weight: 400;
+        text-align: center;
+    }
+    .downimgbox img {
+        width: 88%;
+        float: none;
+    }
+
+    /*download section end*/
+    /*watch section start*/
+    .watchbox {
+        color: white;
+        text-align: center;
+    }
+    .watchbox h2 {
+        font-size: 40px;
+        font-weight: 700;
+    }
+    .watchbox p {
+        padding: 0;
+        margin: 0;
+        font-size: 21px;
+        width: 100%;
+    }
+
+    /*watch section end*/
+
+    /*kid section start*/
+    #kidimage {
+        margin-top: 209px;
+    }
+    #kidtext {
+        margin-top: -647px;
+    }
+    /*kid section end*/
+    /*faq section start*/
+    .accordion h3 {
+        background: #303030;
+        color: white;
+        padding: 18px 25px;
+        width: 90%;
+        margin: auto;
+        padding-left: 22px;
+        font-size: 20px;
+    }
+    .accordion .icon {
+        width: 30px;
+        margin-right: 3.75em;
+        background-image: url(../image/icon1.png);
+        background-repeat: no-repeat;
+        height: 30px;
+        background-size: cover;
+        float: right;
+        margin-top: 19px;
+        cursor: pointer;
+    }
+    .panel {
+        width: 90%;
+    }
+    .panel p {
+        width: 100%;
+        margin: auto;
+        font-size: 20px;
+        color: white;
+        font-weight: 400;
+        padding: 36px 22px;
+    }
+    .faqbox h2 {
+        font-size: 40px;
+    }
+    /*faq section end*/
+    /*footer form start*/
+
+    form.footerform {
+    width: 100%;
+    display: block;
+}
+.tittlep p {
+    font-size: 23px;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    padding-top: 60px;
+    width: 67%;
+    margin: auto;
+    padding-bottom: 13px;
+}
+/*footer form end*/
+}
+/*576-768*/
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    /*input form start*/
+    form.input-form {
+        display: block;
+        width: 100%;
+    }
+    .input-field {
+        position: relative;
+        width: 100%;
+    }
+    .formbtn {
+        padding-top: 19px;
+        width: 219px;
+        align-items: center;
+        margin: auto;
+        text-align: center;
+    }
+    .formbtn button {
+        width: 130px;
+        height: 40px;
+        border: none;
+        background: #e40914;
+        color: white;
+        font-size: 16px;
+        text-align: center;
+        margin: auto;
+        border-radius: 3px;
+    }
+    .formbtn button i {
+        padding-left: 5px;
+        font-size: 13px;
+    }
+    .textandinput p {
+        font-size: 19px;
+        font-weight: 400;
+        color: white;
+        text-align: center;
+        padding-top: 20px;
+        width: 85%;
+        text-align: center;
+        margin: auto;
+        padding-bottom: 14px;
+    }
+
+    /*input form end*/
+    /*enjoy section start*/
+    .row.enjoyrow {
+        display: block;
+    }
+    .col-xs-12.col-sm-6.enjoycol {
+        width: 100%;
+        text-align: center;
+    }
+    .enjoytextbox h2 {
+        font-size: 40px;
+        font-weight: 700;
+    }
+    .enjoytextbox p {
+        font-size: 20px;
+        padding-top: 10px;
+        padding-bottom: 0;
+        margin: 0;
+    }
+    .enjoyimgbox img {
+        width: 95%;
+    }
+
+    /*enjoy section end*/
+    /*download section start*/
+    .row.downrow {
+        display: block;
+    }
+
+    .col-xs-12.col-sm-6.downcol {
+        margin-top: 160px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .col-xs-12.col-sm-6.downcol.downtext {
+        margin-top: -498px;
+        width: 100%;
+    }
+    section.download {
+        background: #000000;
+        border-bottom: 8px solid #222;
+        height: 654px;
+    }
+    .downtxtbox h2 {
+        font-size: 40px;
+        font-weight: 700;
+        text-align: center;
+    }
+    .downtxtbox p {
+        font-size: 20px;
+        font-weight: 400;
+        text-align: center;
+    }
+    .downimgbox img {
+        width: 88%;
+        float: none;
+    }
+
+    /*download section end*/
+    /*watch section start*/
+    .watchbox {
+        color: white;
+        text-align: center;
+    }
+    .watchbox h2 {
+        font-size: 40px;
+        font-weight: 700;
+    }
+    .watchbox p {
+        padding: 0;
+        margin: 0;
+        font-size: 21px;
+        width: 100%;
+    }
+
+    /*watch section end*/
+    /*kid section start*/
+    #kidimage {
+        margin-top: 233px;
+    }
+    #kidtext {
+        margin-top: -573px;
+    }
+    #kidbox h2 {
+        font-size: 40px;
+        padding-bottom: 16px;
+    }
+
+    /*kid section end*/
+
+    /*faq section start*/
+    .accordion h3 {
+        background: #303030;
+        color: white;
+        padding: 18px 25px;
+        width: 90%;
+        margin: auto;
+        padding-left: 22px;
+        font-size: 20px;
+    }
+    .accordion .icon {
+        width: 30px;
+        margin-right: 2.75em;
+        background-image: url(../image/icon1.png);
+        background-repeat: no-repeat;
+        height: 30px;
+        background-size: cover;
+        float: right;
+        margin-top: 19px;
+        cursor: pointer;
+    }
+    .panel {
+        width: 90%;
+    }
+    .panel p {
+        width: 100%;
+        margin: auto;
+        font-size: 20px;
+        color: white;
+        font-weight: 400;
+        padding: 36px 22px;
+    }
+    .faqbox h2 {
+        font-size: 40px;
+    }
+    /*faq section end*/
+       /*footer form start*/
+
+    form.footerform {
+    width: 100%;
+    display: block;
+}
+.tittlep p {
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    padding-top: 60px;
+    width: 69%;
+    margin: auto;
+    padding-bottom: 13px;
+}
+/*footer form end*/
+
+/*footer section start*/
+.footertittle h4 {
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    width: 36%;
+}
+.col-xs-12.col-sm-6.col-md-3.textdivfooter {
+    width: 50%;
+}
+/*footer section end*/
+}
+/*480-576*/
+@media only screen and (min-width: 480px) and (max-width: 575px) {
+    /*nav start*/
+
+    .col-xs-12.col-sm-6.lodiv {
+        width: 50%;
+    }
+
+    .col-xs-12.col-sm-6.btndiv {
+        width: 50%;
+    }
+    /*nav end*/
+
+    /*input form start*/
+    form.input-form {
+        display: block;
+        width: 100%;
+    }
+    .input-field {
+        position: relative;
+        width: 100%;
+    }
+    .formbtn {
+        padding-top: 19px;
+        width: 219px;
+        align-items: center;
+        margin: auto;
+        text-align: center;
+    }
+    .formbtn button {
+        width: 130px;
+        height: 40px;
+        border: none;
+        background: #e40914;
+        color: white;
+        font-size: 16px;
+        text-align: center;
+        margin: auto;
+        border-radius: 3px;
+    }
+    .formbtn button i {
+        padding-left: 5px;
+        font-size: 13px;
+    }
+    .textandinput p {
+        font-size: 19px;
+        font-weight: 400;
+        color: white;
+        text-align: center;
+        padding-top: 20px;
+        width: 78%;
+        text-align: center;
+        margin: auto;
+        padding-bottom: 14px;
+    }
+    .textandinput h2 {
+        font-size: 31px;
+        font-weight: 800;
+        color: white;
+        text-align: center;
+        padding-top: 146px;
+    }
+
+    /*input form end*/
+    /*enjoy section start*/
+    .row.enjoyrow {
+        display: block;
+    }
+    .col-xs-12.col-sm-6.enjoycol {
+        width: 100%;
+        text-align: center;
+    }
+    .enjoytextbox h2 {
+        font-size: 26px;
+        font-weight: 700;
+    }
+    .enjoytextbox p {
+        font-size: 18px;
+        padding-top: 10px;
+        padding-bottom: 0;
+        width: 90%;
+        margin: auto;
+    }
+    .enjoyimgbox img {
+        width: 95%;
+    }
+
+    /*enjoy section end*/
+    /*download section start*/
+    .row.downrow {
+        display: block;
+    }
+
+    .col-xs-12.col-sm-6.downcol {
+        margin-top: 105px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .col-xs-12.col-sm-6.downcol.downtext {
+        margin-top: -412px;
+        width: 100%;
+    }
+    section.download {
+        background: #000000;
+        border-bottom: 8px solid #222;
+        height: 560px;
+    }
+    .downtxtbox h2 {
+        font-size: 26px;
+        font-weight: 700;
+        text-align: center;
+    }
+    .downtxtbox p {
+        font-size: 18px;
+        font-weight: 400;
+        text-align: center;
+        width: 90%;
+        margin: auto;
+    }
+    .downimgbox img {
+        width: 88%;
+        float: none;
+    }
+
+    /*download section end*/
+    /*watch section start*/
+    .watchbox {
+        color: white;
+        text-align: center;
+    }
+    .watchbox h2 {
+        font-size: 26px;
+        font-weight: 700;
+    }
+    .watchbox p {
+        padding: 0;
+        margin: 0;
+        font-size: 18px;
+        width: 100%;
+    }
+
+    /*watch section end*/
+
+    /*kid section start*/
+    #kidimage {
+        margin-top: 190px;
+    }
+    #kidtext {
+        margin-top: -502px;
+    }
+    #kidbox h2 {
+        font-size: 26px;
+        padding-bottom: 16px;
+    }
+
+    /*kid section end*/
+
+    /*faq section start*/
+    .accordion h3 {
+        background: #303030;
+        color: white;
+        padding: 18px 25px;
+        width: 100%;
+        margin: auto;
+        padding-left: 22px;
+        font-size: 20px;
+    }
+    .accordion .icon {
+        width: 30px;
+        margin-right: 1.75em;
+        background-image: url(../image/icon1.png);
+        background-repeat: no-repeat;
+        height: 30px;
+        background-size: cover;
+        float: right;
+        margin-top: 19px;
+        cursor: pointer;
+    }
+    .panel {
+        width: 100%;
+    }
+    .panel p {
+        width: 100%;
+        margin: auto;
+        font-size: 20px;
+        color: white;
+        font-weight: 400;
+        padding: 36px 22px;
+    }
+    .col-xs-12.faqcolum {
+        margin: 0;
+        padding: 0;
+    }
+    .faqbox h2 {
+        font-size: 26px;
+    }
+    /*faq section end*/
+
+         /*footer form start*/
+
+    form.footerform {
+    width: 100%;
+    display: block;
+}
+.tittlep p {
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    padding-top: 60px;
+    width: 69%;
+    margin: auto;
+    padding-bottom: 13px;
+}
+/*footer form end*/
+
+/*footer section start*/
+.footertittle h4 {
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    width: 36%;
+}
+.col-xs-12.col-sm-6.col-md-3.textdivfooter {
+    width: 50%;
+}
+/*footer section end*/
+}
+
+@media only screen and (min-width: 425px) and (max-width: 479px) {
+    /*nav start*/
+
+    .col-xs-12.col-sm-6.lodiv {
+        width: 50%;
+    }
+
+    .col-xs-12.col-sm-6.btndiv {
+        width: 50%;
+    }
+    .logobox {
+        padding-left: 10px;
+    }
+    button.signinbtn {
+        margin-right: 10px;
+    }
+    /*nav end*/
+
+    /*input form start*/
+    form.input-form {
+        display: block;
+        width: 100%;
+    }
+    .input-field {
+        position: relative;
+        width: 100%;
+    }
+    .formbtn {
+        padding-top: 19px;
+        width: 219px;
+        align-items: center;
+        margin: auto;
+        text-align: center;
+    }
+    .formbtn button {
+        width: 130px;
+        height: 40px;
+        border: none;
+        background: #e40914;
+        color: white;
+        font-size: 16px;
+        text-align: center;
+        margin: auto;
+        border-radius: 3px;
+    }
+    .formbtn button i {
+        padding-left: 5px;
+        font-size: 13px;
+    }
+    .textandinput p {
+        font-size: 19px;
+        font-weight: 400;
+        color: white;
+        text-align: center;
+        padding-top: 20px;
+        width: 78%;
+        text-align: center;
+        margin: auto;
+        padding-bottom: 14px;
+    }
+    .textandinput h2 {
+        font-size: 31px;
+        font-weight: 800;
+        color: white;
+        text-align: center;
+        padding-top: 146px;
+    }
+    input#email {
+        width: 100%;
+        height: 60px;
+        padding-left: 10px;
+        border-radius: 3px 0px 0px 3px;
+        margin-left: 2px;
+    }
+    .formdiv {
+        width: 100%;
+    }
+
+    /*input form end*/
+    /*enjoy section start*/
+    .row.enjoyrow {
+        display: block;
+    }
+    .col-xs-12.col-sm-6.enjoycol {
+        width: 100%;
+        text-align: center;
+    }
+    .enjoytextbox h2 {
+        font-size: 26px;
+        font-weight: 700;
+    }
+    .enjoytextbox p {
+        font-size: 18px;
+        padding-top: 10px;
+        padding-bottom: 0;
+        width: 90%;
+        margin: auto;
+    }
+    .enjoyimgbox img {
+        width: 95%;
+    }
+
+    /*enjoy section end*/
+    /*download section start*/
+    .row.downrow {
+        display: block;
+    }
+
+    .col-xs-12.col-sm-6.downcol {
+        margin-top: 105px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .col-xs-12.col-sm-6.downcol.downtext {
+        margin-top: -390px;
+        width: 100%;
+    }
+    section.download {
+        background: #000000;
+        border-bottom: 8px solid #222;
+        height: 496px;
+    }
+    .downtxtbox h2 {
+        font-size: 26px;
+        font-weight: 700;
+        text-align: center;
+    }
+    .downtxtbox p {
+        font-size: 18px;
+        font-weight: 400;
+        text-align: center;
+        width: 90%;
+        margin: auto;
+    }
+    .downimgbox img {
+        width: 88%;
+        float: none;
+    }
+
+    /*download section end*/
+    /*watch section start*/
+    .watchbox {
+        color: white;
+        text-align: center;
+    }
+    .watchbox h2 {
+        font-size: 26px;
+        font-weight: 700;
+    }
+    .watchbox p {
+        padding: 0;
+        margin: 0;
+        font-size: 18px;
+        width: 100%;
+    }
+
+    /*watch section end*/
+
+    /*kid section start*/
+    #kidimage {
+        margin-top: 164px;
+    }
+    #kidtext {
+        margin-top: -432px;
+    }
+    #kidbox h2 {
+        font-size: 26px;
+        padding-bottom: 16px;
+    }
+    section#kidsection {
+        height: 530px;
+    }
+    /*kid section end*/
+
+    /*faq section start*/
+    .accordion h3 {
+        background: #303030;
+        color: white;
+        padding: 18px 25px;
+        width: 100%;
+        margin: auto;
+        padding-left: 22px;
+        font-size: 20px;
+    }
+    .accordion .icon {
+        width: 30px;
+        margin-right: 1.75em;
+        background-image: url(../image/icon1.png);
+        background-repeat: no-repeat;
+        height: 30px;
+        background-size: cover;
+        float: right;
+        margin-top: 19px;
+        cursor: pointer;
+    }
+    .panel {
+        width: 100%;
+    }
+    .panel p {
+        width: 100%;
+        margin: auto;
+        font-size: 20px;
+        color: white;
+        font-weight: 400;
+        padding: 36px 22px;
+    }
+    .col-xs-12.faqcolum {
+        margin: 0;
+        padding: 0;
+    }
+    .faqbox h2 {
+        font-size: 26px;
+    }
+
+    /*faq section end*/
+
+         /*footer form start*/
+
+    form.footerform {
+    width: 100%;
+    display: block;
+}
+.tittlep p {
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    padding-top: 60px;
+    width: 69%;
+    margin: auto;
+    padding-bottom: 13px;
+}
+input#name {
+    height: 60px;
+    padding-left: 10px;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+label#emaillabel {
+    padding-left: 32px;
+}
+
+/*footer form end*/
+
+/*footer section start*/
+.footertittle h4 {
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    width: 56%;
+}
+.col-xs-12.col-sm-6.col-md-3.textdivfooter {
+    width: 50%;
+}
+/*footer section end*/
+
+}
+/*375-479*/
+@media only screen and (min-width: 375px) and (max-width: 424px) {
+    /*nav start*/
+
+    .col-xs-12.col-sm-6.lodiv {
+        width: 50%;
+    }
+
+    .col-xs-12.col-sm-6.btndiv {
+        width: 50%;
+    }
+    .logobox {
+        padding-left: 10px;
+    }
+    button.signinbtn {
+        margin-right: 10px;
+    }
+    /*nav end*/
+    /*input form start*/
+    form.input-form {
+        display: block;
+        width: 100%;
+    }
+    .input-field {
+        position: relative;
+        width: 100%;
+    }
+    .formbtn {
+        padding-top: 19px;
+        width: 219px;
+        align-items: center;
+        margin: auto;
+        text-align: center;
+    }
+    .formbtn button {
+        width: 130px;
+        height: 40px;
+        border: none;
+        background: #e40914;
+        color: white;
+        font-size: 16px;
+        text-align: center;
+        margin: auto;
+        border-radius: 3px;
+    }
+    .formbtn button i {
+        padding-left: 5px;
+        font-size: 13px;
+    }
+    .textandinput p {
+        font-size: 19px;
+        font-weight: 400;
+        color: white;
+        text-align: center;
+        padding-top: 20px;
+        width: 90%;
+        text-align: center;
+        margin: auto;
+        padding-bottom: 14px;
+    }
+    .textandinput h2 {
+        font-size: 31px;
+        font-weight: 800;
+        color: white;
+        text-align: center;
+        padding-top: 146px;
+    }
+    input#email {
+        width: 100%;
+        height: 60px;
+        padding-left: 10px;
+        border-radius: 3px 0px 0px 3px;
+        margin-left: 2px;
+    }
+    .formdiv {
+        width: 100%;
+    }
+    .textandinput h5 {
+        font-size: 18px;
+        color: white;
+        text-align: center;
+        padding-top: 5px;
+        font-weight: 400;
+    }
+
+    /*input form end*/
+    /*enjoy section start*/
+    .row.enjoyrow {
+        display: block;
+    }
+    .col-xs-12.col-sm-6.enjoycol {
+        width: 100%;
+        text-align: center;
+    }
+    .enjoytextbox h2 {
+        font-size: 26px;
+        font-weight: 700;
+    }
+    .enjoytextbox p {
+        font-size: 18px;
+        padding-top: 10px;
+        padding-bottom: 0;
+        width: 90%;
+        margin: auto;
+    }
+    .enjoyimgbox img {
+        width: 95%;
+    }
+
+    /*enjoy section end*/
+
+    /*download section start*/
+    .row.downrow {
+        display: block;
+    }
+
+    .col-xs-12.col-sm-6.downcol {
+        margin-top: 105px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .col-xs-12.col-sm-6.downcol.downtext {
+        margin-top: -353px;
+        width: 100%;
+    }
+    section.download {
+        background: #000000;
+        border-bottom: 8px solid #222;
+        height: 456px;
+    }
+    .downtxtbox h2 {
+        font-size: 26px;
+        font-weight: 700;
+        text-align: center;
+    }
+    .downtxtbox p {
+        font-size: 18px;
+        font-weight: 400;
+        text-align: center;
+        width: 90%;
+        margin: auto;
+    }
+    .downimgbox img {
+        width: 88%;
+        float: none;
+    }
+
+    /*download section end*/
+    /*watch section start*/
+    .watchbox {
+        color: white;
+        text-align: center;
+    }
+    .watchbox h2 {
+        font-size: 26px;
+        font-weight: 700;
+    }
+    .watchbox p {
+        padding: 0;
+        margin: 0;
+        font-size: 21px;
+        width: 100%;
+    }
+
+    /*watch section end*/
+
+    /*kid section start*/
+    #kidimage {
+        margin-top: 197px;
+    }
+    #kidtext {
+        margin-top: -426px;
+    }
+    #kidbox h2 {
+        font-size: 26px;
+        padding-bottom: 16px;
+    }
+    section#kidsection {
+        height: 530px;
+    }
+    /*kid section end*/
+
+    /*faq section start*/
+    .accordion h3 {
+        background: #303030;
+        color: white;
+        padding: 18px 25px;
+        width: 100%;
+        margin: auto;
+        padding-left: 22px;
+        font-size: 20px;
+    }
+    .accordion .icon {
+        width: 30px;
+        margin-right: 1.75em;
+        background-image: url(../image/icon1.png);
+        background-repeat: no-repeat;
+        height: 30px;
+        background-size: cover;
+        float: right;
+        margin-top: 19px;
+        cursor: pointer;
+    }
+    .panel {
+        width: 100%;
+    }
+    .panel p {
+        width: 100%;
+        margin: auto;
+        font-size: 20px;
+        color: white;
+        font-weight: 400;
+        padding: 36px 22px;
+    }
+    .col-xs-12.faqcolum {
+        margin: 0;
+        padding: 0;
+    }
+    .faqbox h2 {
+        font-size: 26px;
+    }
+    /*faq section end*/
+
+             /*footer form start*/
+
+    form.footerform {
+    width: 100%;
+    display: block;
+}
+.tittlep p {
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    padding-top: 60px;
+    width: 84%;
+    margin: auto;
+    padding-bottom: 13px;
+}
+input#name {
+    height: 60px;
+    padding-left: 10px;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+label#emaillabel {
+    padding-left: 32px;
+}
+
+/*footer form end*/
+
+/*footer section start*/
+.footertittle h4 {
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    width: 61%;
+}
+.col-xs-12.col-sm-6.col-md-3.textdivfooter {
+    width: 50%;
+}
+/*footer section end*/
+
+}
+
+/*320-374*/
+@media only screen and (min-width: 320px) and (max-width: 374px) {
+    /*nav start*/
+    .col-xs-12.col-sm-6.lodiv {
+        width: 50%;
+    }
+
+    .col-xs-12.col-sm-6.btndiv {
+        width: 50%;
+    }
+
+    .logobox {
+        padding-left: 0px;
+    }
+    button.signinbtn {
+        margin-right: 0px;
+    }
+    /*nav end*/
+    /*input form start*/
+    form.input-form {
+        display: block;
+        width: 100%;
+    }
+    .input-field {
+        position: relative;
+        width: 100%;
+    }
+    .formbtn {
+        padding-top: 19px;
+        width: 219px;
+        align-items: center;
+        margin: auto;
+        text-align: center;
+    }
+    .formbtn button {
+        width: 130px;
+        height: 40px;
+        border: none;
+        background: #e40914;
+        color: white;
+        font-size: 16px;
+        text-align: center;
+        margin: auto;
+        border-radius: 3px;
+    }
+    .formbtn button i {
+        padding-left: 5px;
+        font-size: 13px;
+    }
+    .textandinput p {
+        font-size: 19px;
+        font-weight: 400;
+        color: white;
+        text-align: center;
+        padding-top: 20px;
+        width: 90%;
+        text-align: center;
+        margin: auto;
+        padding-bottom: 14px;
+    }
+    .textandinput h2 {
+        font-size: 28px;
+        font-weight: 800;
+        color: white;
+        text-align: center;
+        padding-top: 146px;
+    }
+    input#email {
+        width: 100%;
+        height: 60px;
+        padding-left: 10px;
+        border-radius: 3px 0px 0px 3px;
+        margin-left: 2px;
+    }
+    .formdiv {
+        width: 100%;
+    }
+    .textandinput h5 {
+        font-size: 18px;
+        color: white;
+        text-align: center;
+        padding-top: 18px;
+        font-weight: 400;
+    }
+    .logobox img {
+        width: 130px;
+    }
+
+    /*input form end*/
+
+    /*enjoy section start*/
+    .row.enjoyrow {
+        display: block;
+    }
+    .col-xs-12.col-sm-6.enjoycol {
+        width: 100%;
+        text-align: center;
+    }
+    .enjoytextbox h2 {
+        font-size: 26px;
+        font-weight: 700;
+    }
+    .enjoytextbox p {
+        font-size: 18px;
+        padding-top: 10px;
+        padding-bottom: 0;
+        width: 100%;
+        margin: auto;
+    }
+    .enjoyimgbox img {
+        width: 95%;
+    }
+
+    /*enjoy section end*/
+
+    /*download section start*/
+    .row.downrow {
+        display: block;
+    }
+
+    .col-xs-12.col-sm-6.downcol {
+        margin-top: 105px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .col-xs-12.col-sm-6.downcol.downtext {
+        margin-top: -353px;
+        width: 100%;
+    }
+    section.download {
+        background: #000000;
+        border-bottom: 8px solid #222;
+        height: 448px;
+    }
+    .downtxtbox h2 {
+        font-size: 26px;
+        font-weight: 700;
+        text-align: center;
+    }
+    .downtxtbox p {
+        font-size: 18px;
+        font-weight: 400;
+        text-align: center;
+        width: 90%;
+        margin: auto;
+    }
+    .downimgbox img {
+        width: 100%;
+        float: none;
+    }
+
+    /*download section end*/
+    /*watch section start*/
+    .watchbox {
+        color: white;
+        text-align: center;
+    }
+    .watchbox h2 {
+        font-size: 26px;
+        font-weight: 700;
+    }
+    .watchbox p {
+        padding: 0;
+        margin: 0;
+        font-size: 19px;
+        width: 100%;
+    }
+
+    /*watch section end*/
+
+    /*kid section start*/
+    #kidimage {
+        margin-top: 197px;
+    }
+    #kidtext {
+        margin-top: -426px;
+    }
+    #kidbox h2 {
+        font-size: 26px;
+        padding-bottom: 16px;
+    }
+    section#kidsection {
+        height: 530px;
+    }
+    /*kid section end*/
+
+    /*faq section start*/
+    .accordion h3 {
+        background: #303030;
+        color: white;
+        padding: 18px 25px;
+        width: 100%;
+        margin: auto;
+        padding-left: 9px;
+        font-size: 18px;
+    }
+    .accordion .icon {
+        width: 30px;
+        margin-right: 0.75em;
+        background-image: url(../image/icon1.png);
+        background-repeat: no-repeat;
+        height: 30px;
+        background-size: cover;
+        float: right;
+        margin-top: 19px;
+        cursor: pointer;
+    }
+    .panel {
+        width: 100%;
+    }
+    .panel p {
+        width: 100%;
+        margin: auto;
+        font-size: 18px;
+        color: white;
+        font-weight: 400;
+        padding: 36px 9px;
+    }
+    .col-xs-12.faqcolum {
+        margin: 0;
+        padding: 0;
+    }
+    .faqbox h2 {
+        font-size: 26px;
+    }
+
+    /*faq section end*/
+
+                /*footer form start*/
+
+    form.footerform {
+    width: 100%;
+    display: block;
+}
+.tittlep p {
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    padding-top: 60px;
+    width: 95%;
+    margin: auto;
+    padding-bottom: 13px;
+}
+input#name {
+    height: 60px;
+    padding-left: 10px;
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+label#emaillabel {
+    padding-left: 15px;
+}
+
+/*footer form end*/
+
+/*footer section start*/
+.footertittle h4 {
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    width: 78%;
+}
+.col-xs-12.col-sm-6.col-md-3.textdivfooter {
+    width: 50%;
+}
+/*footer section end*/
+}
